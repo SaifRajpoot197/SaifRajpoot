@@ -26,6 +26,18 @@ A beginner-level Python project that checks password strength based on its lengt
 
 [View Project](https://github.com/SaifRajpoot197/Python-Password-Checker)
 
+### 2. Daily Expense Tracker
+A Python program that takes three expenses, calculates the total, and saves the results in a text file.
+
+🔗 [View Project](https://github.com/SaifRajpoot197/Python-Daily-Expense-Tracker)
+
+### 3. Calendar Generator
+A Python program that displays the complete yearly calendar using Python's calendar module.
+
+🔗 [View Project](https://github.com/SaifRajpoot197/Python-Calendar-Generator)
+
+---
+
 ## 🎯 Current Goals
 - Improve Python programming
 - Learn Object-Oriented Programming
